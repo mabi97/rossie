@@ -5,7 +5,7 @@ import os
 from google.cloud import bigquery
 
 def main_requests(page):
-    time = int((datetime.now()-timedelta(minutes=120)).timestamp())
+    time = int((datetime.now()-timedelta(hours=8)).timestamp())
     url = "https://pos.pages.fm/api/v1/shops/5213930/orders?api_key=e5b85d9090144a678ea1d63453c919b5&updateStatus=updated_at&page_size=100"
     response = requests.request("GET", url + f'&page_number={page}' + f'&startDateTime={time}')
     return response.json()
@@ -53,11 +53,16 @@ def get_orders(response):
                     item['fee_marketplace'],\
                     item ['total_discount']
         
-        char = [None if (val is None or val == '') else val for val in char]
-        print(char)
-        delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Ecommerce_Orders` WHERE id = '" + id + "'")
-        delete_job.result()
-        client.insert_rows(table, [char])
+        
+        try:
+            char = [None if (val is None or val == '') else val for val in char]
+            delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Ecommerce_Orders` WHERE id = '" + id + "'")
+            delete_job.result()
+            client.insert_rows(table, [char])
+        
+        except:
+            with open('tracking.txt', 'a') as file:
+                file.write('\n' + 'San!!! ' + char + ' run_time: ' + str(datetime.now()))
             
         for i in item['items']: 
             order_detail_id = str(i['id'])
@@ -68,11 +73,14 @@ def get_orders(response):
                 i['quantity'],\
                 i['variation_info']['retail_price'],\
                 i['discount_each_product']        
-            row = [None if (val is None or val == '') else val for val in row]
-            delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Ecommerce_Orders_Detail` WHERE id = '" + order_detail_id + "'")
-            delete_job.result()
-            client.insert_rows(detail_table, [row])
-                
+        
+            try:        
+                row = [None if (val is None or val == '') else val for val in row]
+                delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Ecommerce_Orders_Detail` WHERE id = '" + order_detail_id + "'")
+                delete_job.result()
+                client.insert_rows(detail_table, [row])
+            except:
+                pass
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'report-realtime-350003-c4cc0f514e7e.json'
 client = bigquery.Client()

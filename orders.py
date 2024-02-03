@@ -5,13 +5,13 @@ import os
 from google.cloud import bigquery
 
 def main_requests(page):
-    time = int((datetime.now()-timedelta(minutes=120)).timestamp())
+    time = int((datetime.now()-timedelta(minutes=140)).timestamp())
     url = "https://pos.pages.fm/api/v1/shops/5118364/orders?api_key=ba7023239ae44f8db8c38591fdb5cf1a&updateStatus=updated_at&page_size=100"
     response = requests.request("GET", url + f'&page_number={page}' + f'&startDateTime={time}')
     return response.json()
 
 def deleted_order_requests():
-    time = int((datetime.now()-timedelta(minutes=120)).timestamp())
+    time = int((datetime.now()-timedelta(minutes=140)).timestamp())
     url = "https://pos.pages.fm/api/v1/shops/5118364/orders?api_key=ba7023239ae44f8db8c38591fdb5cf1a&updateStatus=updated_at&page_size=200&status=7"
     response = requests.request("GET", url + f'&startDateTime={time}')
     return response.json()
@@ -84,12 +84,14 @@ def get_orders(response):
                     exact([x['name'] if x['name'] in failed_reason_list else None for x in item.get('tags')]),\
                     item['customer']['date_of_birth'],\
                     item['cod']
-
-        char = [None if (val is None or val == '') else val for val in char]
-        delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Orders` WHERE id = '" + id + "'")
-        delete_job.result()
-        client.insert_rows(order_table, [char])
-        
+        try: 
+            char = [None if (val is None or val == '') else val for val in char]
+            delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Orders` WHERE id = '" + id + "'")
+            delete_job.result()
+            client.insert_rows(order_table, [char])
+        except: 
+            with open('tracking.txt', 'a') as file:
+                file.write('\n' + 'Order!!! ' + char + ' time_run:' + str(datetime.now()))         
 
 
         for i in item['items']: 
@@ -101,11 +103,13 @@ def get_orders(response):
                 i['quantity'],\
                 i['variation_info']['retail_price'],\
                 i['discount_each_product']        
-            row = [None if (val is None or val == '') else val for val in row]
-            delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Orders_Detail` WHERE id = '" + order_detail_id + "'")
-            delete_job.result()
-            client.insert_rows(order_detail_table, [row])
-
+            try:
+                row = [None if (val is None or val == '') else val for val in row]
+                delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Pan_Orders_Detail` WHERE id = '" + order_detail_id + "'")
+                delete_job.result()
+                client.insert_rows(order_detail_table, [row])
+            except:
+                pass
 
 for i in range(1,get_pages(main_requests(1))+1):
     get_orders(main_requests(i))

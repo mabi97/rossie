@@ -1,6 +1,7 @@
  #mkt_account
 import requests
 import pandas as pd
+import pandas_gbq
 from datetime import  datetime, timedelta
 import os
 from google.cloud import bigquery
@@ -12,7 +13,7 @@ project_id = 'report-realtime-350003'
 fb_table = client.get_table(client.dataset('Rossie').table('FB_AdAccount'))
 tiktok_table = client.get_table(client.dataset('Rossie').table('Tiktok_AdAcount'))
 
-fb_token_list = ["EAAI9vVVEJgwBO1ZCqiFzWcAZCiMNe1ZCaHFtvZB1XpEVVjc7EZBMqNjS2d4UJ0GLnyUXxAwOIhKzYaZCoI2im2s07PXqpj9TZCuYz4Tkt9bPD3YbibJK2ZArs1hW9fZAlZC6calaOZCF7lZATFl1UbSZAIbdN91ZBUt1IMrYKyZAAADbWevs5XWtbg3d54MfHd0"]
+fb_token_list = ["EAAI9vVVEJgwBO2qDq8J9ItCtPWOXlFeaaHtg6tkpKIBWMgxgBancjskvR57rkZCIk1Ma3f00ofYKjT7BjsMhDvEt00e21L24ZA9ZB7fG7bxMFL12Tib1mIJRnWQndk3ZAIHhgbS3gccgZBdSjeBsfauxrUHAuIKwMA7Q8DddxEU4RxuiQupB9tBUq"]
 
 tiktok_token_list = ["6f89bf3165824a253d73d09225b0bbcc17d6eb88","96f5da151feb42713ac1f4a3fdc6e664c13f9a35"]
 
@@ -21,6 +22,7 @@ def fb_adaccount_requests(token):
     url = host + token
     response = requests.request("GET", url)
     data = response.json()
+    df = []
 
     try:
         for item in data['adaccounts']['data']:
@@ -40,10 +42,8 @@ def fb_adaccount_requests(token):
                 item['name'],\
                 bank_account
             row = [None if (val is None or val == '') else val for val in row]
-            delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.FB_AdAccount` WHERE id = '" + id + "'")
-            delete_job.result()
-            client.insert_rows(fb_table, [row])
-
+            df.append(row)
+            
     except: 
         try:
             with open('tracking.txt', 'a') as file:
@@ -51,7 +51,7 @@ def fb_adaccount_requests(token):
         except: 
             with open('tracking.txt', 'a') as file:
                 file.write('\n' + 'Lỗi code ' + str(datetime.now()))
-
+    return df
 
 def tiktok_adaccount_requests(token):
 
@@ -63,18 +63,26 @@ def tiktok_adaccount_requests(token):
 
   response = requests.request("GET", url, headers=headers)
   data = response.json()
+  df = []
 
   for i in data['data']['list']:
       id = i['advertiser_id']
-      row = id, i['advertiser_name'], token
-      delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.Tiktok_AdAcount` WHERE id = '" + id + "'")
-      delete_job.result()
-      client.insert_rows(tiktok_table, [row])
+      row = [id, i['advertiser_name'], token]
+      df.append(row)
 
+  return df
 
+fb_df = []
+tt_df = []
 
 for i in fb_token_list:
-    fb_adaccount_requests(i)
+    fb_df.extend(fb_adaccount_requests(i))
 
 for i in tiktok_token_list:
-    tiktok_adaccount_requests(i)
+    tt_df.extend(tiktok_adaccount_requests(i))
+
+fb_df = pd.DataFrame(fb_df, columns=['id', 'balance', 'amount_spend', 'currency', 'spend_cap','account_status','fb_name','token','account_name','bank_account'])
+tt_df = pd.DataFrame(tt_df, columns=['id', 'name', 'token'])
+
+pandas_gbq.to_gbq(fb_df, 'report-realtime-350003.Rossie.FB_AdAccount', if_exists='replace')
+pandas_gbq.to_gbq(tt_df, 'report-realtime-350003.Rossie.Tiktok_AdAcount', if_exists='append')

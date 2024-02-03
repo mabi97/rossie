@@ -25,7 +25,7 @@ def exact(list):
 
 def report_requests(account_id,token):
     host = "https://graph.facebook.com/v16.0/"
-    parameter = "/insights?date_preset=yesterday&fields=account_id%2Caccount_name%2Ccampaign_id%2Ccampaign_name%2Cadset_id%2Cadset_name%2Cad_id%2Cad_name%2Caccount_currency%2Cclicks%2Cimpressions%2Creach%2Cspend%2Ccreated_time%2Cactions%2Ccost_per_unique_click&filtering=%5B%7Bfield%3A%22action_type%22%2C%22operator%22%3A%22IN%22%2C%22value%22%3A%5B%22onsite_conversion.messaging_first_reply%22%2C%22onsite_conversion.messaging_conversation_started_7d%22%2C%22comment%22%2C%22omni_complete_registration%22%2C%22landing_page_view%22%2C%22link_click%22%5D%7D%5D&level=ad&time_increment=1&limit=200&transport=cors&access_token="
+    parameter = "/insights?date_preset=last_3d&fields=account_id%2Caccount_name%2Ccampaign_id%2Ccampaign_name%2Cadset_id%2Cadset_name%2Cad_id%2Cad_name%2Caccount_currency%2Cclicks%2Cimpressions%2Creach%2Cspend%2Ccreated_time%2Cactions%2Ccost_per_unique_click&filtering=%5B%7Bfield%3A%22action_type%22%2C%22operator%22%3A%22IN%22%2C%22value%22%3A%5B%22onsite_conversion.messaging_first_reply%22%2C%22onsite_conversion.messaging_conversation_started_7d%22%2C%22comment%22%2C%22omni_complete_registration%22%2C%22landing_page_view%22%2C%22link_click%22%5D%7D%5D&level=ad&time_increment=1&limit=200&transport=cors&access_token="
     #Khi muốn chọn ngày copy đoạn sau lên parameter: &time_range={since:'2023-03-22',until:'2023-03-22'}
     url = host + account_id + parameter + token
     response = requests.request("GET", url)
@@ -74,34 +74,7 @@ def report_requests(account_id,token):
                 file.write('\n' + 'AdReport!!! ' + data['error']['message'] + '!!! ' + str(datetime.now()))
         except:
             with open('tracking.txt', 'a') as file:
-                file.write('\n' + 'Lỗi khác')        
-
-def ad_request(ad_id,token):
-    host = "https://graph.facebook.com/v16.0/"
-    parameter = "/adcreatives?fields=actor_id%2Ceffective_object_story_id&transport=cors&access_token="
-    url = host + ad_id + parameter + token
-    response = requests.request("GET", url)
-    data = response.json()
-    
-    try:
-        for item in data['data']:
-            id = ad_id 
-            row = id,\
-                item['effective_object_story_id'] if item.get('effective_object_story_id') else None,\
-                item['actor_id'] if item.get('actor_id') else None
-            
-            delete_job = client.query("DELETE FROM `report-realtime-350003.Rossie.FB_Ad` WHERE id = '" + id + "'")
-            delete_job.result()
-            client.insert_rows(ad_table, [row])
-
-    except:
-        try:
-            with open('tracking.txt', 'a') as file:
-                file.write('\n' + 'AdAccount!!! ' + data['error']['message'] + '!!! ' + str(datetime.now()))
-        except: 
-            with open('tracking.txt', 'a') as file:
-                file.write('\n' + 'Lỗi code ' + str(datetime.now()))                   
-
+                file.write('\n' + 'Lỗi khác')                  
 
 
 account_list = client.query("SELECT id, token FROM `report-realtime-350003.Rossie.FB_AdAccount`")
@@ -109,23 +82,3 @@ for i in account_list:
     report_requests(i[0],i[1])
 
 
-
-ad_list = client.query("""
-SELECT ad_id, token
-FROM 
-(SELECT DISTINCT ad_id, token
-FROM `report-realtime-350003.Rossie.FB_AdReport`
-LEFT JOIN 
-    (SELECT REPLACE(id,'act_','') id, token
-    FROM `report-realtime-350003.Rossie.FB_AdAccount`) TB11
-ON `report-realtime-350003.Rossie.FB_AdReport`.account_id = TB11.id) TB1
-LEFT JOIN `report-realtime-350003.Rossie.FB_Ad` TB2
-ON TB1.ad_id = TB2.id
-WHERE TB2.id is NULL
-""")
-
-
-try:
-    for i in ad_list:
-        ad_request(i[0],i[1])
-except: pass

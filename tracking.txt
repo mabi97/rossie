@@ -1,254 +1,1006 @@
 
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:30 PST.!!! 2024-01-03 20:37:32.155125
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:31 PST.!!! 2024-01-03 20:37:33.358291
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:32 PST.!!! 2024-01-03 20:37:34.051346
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:33 PST.!!! 2024-01-03 20:37:35.005575
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:34 PST.!!! 2024-01-03 20:37:35.839023
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:34 PST.!!! 2024-01-03 20:37:36.309272
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 05:37:35 PST.!!! 2024-01-03 20:37:36.738196
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 05:37:35 PST.!!! 2024-01-03 20:37:37.063541
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Wednesday, 03-Jan-24 05:37:36 PST.!!! 2024-01-03 20:37:37.459355
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:36 PST.!!! 2024-01-03 20:37:37.724619
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:36 PST.!!! 2024-01-03 20:37:38.060028
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:37 PST.!!! 2024-01-03 20:37:38.892206
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:38 PST.!!! 2024-01-03 20:37:39.528550
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:38 PST.!!! 2024-01-03 20:37:40.048173
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:39 PST.!!! 2024-01-03 20:37:40.630065
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:39 PST.!!! 2024-01-03 20:37:41.219963
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:40 PST.!!! 2024-01-03 20:37:41.834404
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:41 PST.!!! 2024-01-03 20:37:42.690690
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:41 PST.!!! 2024-01-03 20:37:43.095331
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 05:37:42 PST.!!! 2024-01-03 20:37:43.539035
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:42 PST.!!! 2024-01-03 20:37:44.390699
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:43 PST.!!! 2024-01-03 20:37:45.238359
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:45 PST.!!! 2024-01-03 20:37:46.539897
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:45 PST.!!! 2024-01-03 20:37:47.240696
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:46 PST.!!! 2024-01-03 20:37:47.562154
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:46 PST.!!! 2024-01-03 20:37:47.905264
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:46 PST.!!! 2024-01-03 20:37:48.259481
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:47 PST.!!! 2024-01-03 20:37:48.699326
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:47 PST.!!! 2024-01-03 20:37:51.153914
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-03 20:37:52.449229
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 05:37:51 PST.!!! 2024-01-03 20:37:52.792130
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 07:31:25 PST.!!! 2024-01-03 22:31:26.774008
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 07:31:25 PST.!!! 2024-01-03 22:31:27.057355
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 07:31:25 PST.!!! 2024-01-03 22:31:27.308562
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:51 PST.!!! 2024-01-04 09:51:51.390522
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:51 PST.!!! 2024-01-04 09:51:51.663795
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:51 PST.!!! 2024-01-04 09:51:51.927521
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:52 PST.!!! 2024-01-04 09:51:52.204349
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:52 PST.!!! 2024-01-04 09:51:52.480355
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:52 PST.!!! 2024-01-04 09:51:52.737706
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 18:51:52 PST.!!! 2024-01-04 09:51:53.084399
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 18:51:53 PST.!!! 2024-01-04 09:51:53.351564
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Wednesday, 03-Jan-24 18:51:53 PST.!!! 2024-01-04 09:51:53.633937
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:53 PST.!!! 2024-01-04 09:51:53.943968
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:54 PST.!!! 2024-01-04 09:51:54.214634
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:54 PST.!!! 2024-01-04 09:51:54.536875
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:54 PST.!!! 2024-01-04 09:51:54.819081
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:54 PST.!!! 2024-01-04 09:51:55.121870
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:55 PST.!!! 2024-01-04 09:51:55.441413
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:55 PST.!!! 2024-01-04 09:51:55.734973
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:55 PST.!!! 2024-01-04 09:51:56.036649
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:56 PST.!!! 2024-01-04 09:51:56.280501
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:56 PST.!!! 2024-01-04 09:51:56.644197
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 18:51:56 PST.!!! 2024-01-04 09:51:56.902236
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:57 PST.!!! 2024-01-04 09:51:57.153029
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:57 PST.!!! 2024-01-04 09:51:57.414588
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:57 PST.!!! 2024-01-04 09:51:57.661762
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:57 PST.!!! 2024-01-04 09:51:57.932721
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:58 PST.!!! 2024-01-04 09:51:58.206557
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:58 PST.!!! 2024-01-04 09:51:58.511446
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:58 PST.!!! 2024-01-04 09:51:58.834591
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:58 PST.!!! 2024-01-04 09:51:59.153861
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:59 PST.!!! 2024-01-04 09:51:59.434215
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-04 09:51:59.777005
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 18:51:59 PST.!!! 2024-01-04 09:52:00.088665
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:33 PST.!!! 2024-01-04 10:12:34.120270
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:34 PST.!!! 2024-01-04 10:12:34.388442
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:34 PST.!!! 2024-01-04 10:12:34.687518
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:34 PST.!!! 2024-01-04 10:12:35.002651
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:35 PST.!!! 2024-01-04 10:12:35.282515
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:35 PST.!!! 2024-01-04 10:12:35.523024
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 19:12:35 PST.!!! 2024-01-04 10:12:35.805977
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 19:12:35 PST.!!! 2024-01-04 10:12:36.122247
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Wednesday, 03-Jan-24 19:12:36 PST.!!! 2024-01-04 10:12:36.452097
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:36 PST.!!! 2024-01-04 10:12:36.704118
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:36 PST.!!! 2024-01-04 10:12:37.192741
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:37 PST.!!! 2024-01-04 10:12:37.508742
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:37 PST.!!! 2024-01-04 10:12:37.807002
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:37 PST.!!! 2024-01-04 10:12:38.121414
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:38 PST.!!! 2024-01-04 10:12:38.406305
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:38 PST.!!! 2024-01-04 10:12:38.674378
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:38 PST.!!! 2024-01-04 10:12:38.943035
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:39 PST.!!! 2024-01-04 10:12:39.212241
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:39 PST.!!! 2024-01-04 10:12:39.479751
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 19:12:39 PST.!!! 2024-01-04 10:12:39.752622
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:39 PST.!!! 2024-01-04 10:12:40.017915
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:40 PST.!!! 2024-01-04 10:12:40.332360
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:40 PST.!!! 2024-01-04 10:12:40.648058
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:40 PST.!!! 2024-01-04 10:12:40.933021
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:41 PST.!!! 2024-01-04 10:12:41.199615
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:41 PST.!!! 2024-01-04 10:12:41.484619
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 19:12:41 PST.!!! 2024-01-04 10:12:41.751759
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 20:23:13 PST.!!! 2024-01-04 11:23:14.138673
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 20:23:14 PST.!!! 2024-01-04 11:23:14.423489
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 20:23:14 PST.!!! 2024-01-04 11:23:14.739061
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 20:23:14 PST.!!! 2024-01-04 11:23:14.991766
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 20:23:15 PST.!!! 2024-01-04 11:23:15.244769
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 20:23:15 PST.!!! 2024-01-04 11:23:15.528264
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:26 PST.!!! 2024-01-04 13:06:26.484765
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:26 PST.!!! 2024-01-04 13:06:26.955391
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:27 PST.!!! 2024-01-04 13:06:27.664040
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:29 PST.!!! 2024-01-04 13:06:29.815091
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:30 PST.!!! 2024-01-04 13:06:30.519335
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:32 PST.!!! 2024-01-04 13:06:33.425089
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 22:06:34 PST.!!! 2024-01-04 13:06:35.549931
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 22:06:37 PST.!!! 2024-01-04 13:06:38.059311
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Wednesday, 03-Jan-24 22:06:38 PST.!!! 2024-01-04 13:06:38.639545
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:39 PST.!!! 2024-01-04 13:06:40.602807
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:42 PST.!!! 2024-01-04 13:06:42.175018
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:42 PST.!!! 2024-01-04 13:06:42.804504
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:43 PST.!!! 2024-01-04 13:06:43.437122
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:44 PST.!!! 2024-01-04 13:06:44.275226
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:44 PST.!!! 2024-01-04 13:06:44.838659
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:45 PST.!!! 2024-01-04 13:06:45.305056
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:46 PST.!!! 2024-01-04 13:06:46.964956
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:47 PST.!!! 2024-01-04 13:06:47.789633
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:48 PST.!!! 2024-01-04 13:06:48.407891
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:06:48 PST.!!! 2024-01-04 13:06:48.978394
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:49 PST.!!! 2024-01-04 13:06:49.615316
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:50 PST.!!! 2024-01-04 13:06:50.283455
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:50 PST.!!! 2024-01-04 13:06:50.881934
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:51 PST.!!! 2024-01-04 13:06:51.692924
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:53 PST.!!! 2024-01-04 13:06:53.392100
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:53 PST.!!! 2024-01-04 13:06:53.788199
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:54 PST.!!! 2024-01-04 13:06:54.537686
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:54 PST.!!! 2024-01-04 13:06:54.934830
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:55 PST.!!! 2024-01-04 13:06:55.443058
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-04 13:06:55.969378
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:06:56 PST.!!! 2024-01-04 13:06:56.480680
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:14 PST.!!! 2024-01-04 13:16:14.773898
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:15 PST.!!! 2024-01-04 13:16:15.110443
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:15 PST.!!! 2024-01-04 13:16:15.432362
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:16 PST.!!! 2024-01-04 13:16:16.131446
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:16 PST.!!! 2024-01-04 13:16:16.574163
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:17 PST.!!! 2024-01-04 13:16:17.020987
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 22:16:17 PST.!!! 2024-01-04 13:16:17.764004
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 22:16:18 PST.!!! 2024-01-04 13:16:18.992299
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Wednesday, 03-Jan-24 22:16:19 PST.!!! 2024-01-04 13:16:19.330148
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:19 PST.!!! 2024-01-04 13:16:19.676681
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:20 PST.!!! 2024-01-04 13:16:20.190075
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:20 PST.!!! 2024-01-04 13:16:20.572043
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:20 PST.!!! 2024-01-04 13:16:20.941882
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:21 PST.!!! 2024-01-04 13:16:21.318312
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:21 PST.!!! 2024-01-04 13:16:21.690259
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:22 PST.!!! 2024-01-04 13:16:22.092502
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:22 PST.!!! 2024-01-04 13:16:22.786977
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:23 PST.!!! 2024-01-04 13:16:23.378193
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:23 PST.!!! 2024-01-04 13:16:23.953075
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 22:16:24 PST.!!! 2024-01-04 13:16:24.520378
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:25 PST.!!! 2024-01-04 13:16:25.269402
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:25 PST.!!! 2024-01-04 13:16:25.813463
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:27 PST.!!! 2024-01-04 13:16:27.092076
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:27 PST.!!! 2024-01-04 13:16:27.661546
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:29 PST.!!! 2024-01-04 13:16:29.690138
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:30 PST.!!! 2024-01-04 13:16:31.056972
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:32 PST.!!! 2024-01-04 13:16:33.522849
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:34 PST.!!! 2024-01-04 13:16:34.270366
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:35 PST.!!! 2024-01-04 13:16:35.528304
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-04 13:16:36.109235
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 22:16:36 PST.!!! 2024-01-04 13:16:36.567851
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:42 PST.!!! 2024-01-04 14:38:42.755422
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:43 PST.!!! 2024-01-04 14:38:43.493771
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:43 PST.!!! 2024-01-04 14:38:44.146815
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:44 PST.!!! 2024-01-04 14:38:44.630064
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:45 PST.!!! 2024-01-04 14:38:45.045544
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:45 PST.!!! 2024-01-04 14:38:45.373187
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 23:38:45 PST.!!! 2024-01-04 14:38:45.822092
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Wednesday, 03-Jan-24 23:38:46 PST.!!! 2024-01-04 14:38:46.148898
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Wednesday, 03-Jan-24 23:38:46 PST.!!! 2024-01-04 14:38:46.564808
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:46 PST.!!! 2024-01-04 14:38:46.962049
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:47 PST.!!! 2024-01-04 14:38:47.299486
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:47 PST.!!! 2024-01-04 14:38:47.712893
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:48 PST.!!! 2024-01-04 14:38:48.101266
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:48 PST.!!! 2024-01-04 14:38:48.509819
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:48 PST.!!! 2024-01-04 14:38:48.895699
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:49 PST.!!! 2024-01-04 14:38:49.243277
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:49 PST.!!! 2024-01-04 14:38:49.606285
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:49 PST.!!! 2024-01-04 14:38:49.977275
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:50 PST.!!! 2024-01-04 14:38:50.313949
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Wednesday, 03-Jan-24 23:38:50 PST.!!! 2024-01-04 14:38:51.642164
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:52 PST.!!! 2024-01-04 14:38:52.308580
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:52 PST.!!! 2024-01-04 14:38:52.716194
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:53 PST.!!! 2024-01-04 14:38:53.127097
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:53 PST.!!! 2024-01-04 14:38:53.449946
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:53 PST.!!! 2024-01-04 14:38:53.772482
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:55 PST.!!! 2024-01-04 14:38:55.263569
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:55 PST.!!! 2024-01-04 14:38:55.822306
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:56 PST.!!! 2024-01-04 14:38:56.227956
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:56 PST.!!! 2024-01-04 14:38:56.630288
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-04 14:38:57.034101
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Wednesday, 03-Jan-24 23:38:57 PST.!!! 2024-01-04 14:38:57.425194
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:35 PST.!!! 2024-01-04 15:50:41.876811
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:45 PST.!!! 2024-01-04 15:50:46.330106
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:47 PST.!!! 2024-01-04 15:50:47.280031
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:47 PST.!!! 2024-01-04 15:50:47.869807
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:48 PST.!!! 2024-01-04 15:50:48.434883
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:49 PST.!!! 2024-01-04 15:50:49.353843
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Thursday, 04-Jan-24 00:50:49 PST.!!! 2024-01-04 15:50:49.734566
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Thursday, 04-Jan-24 00:50:50 PST.!!! 2024-01-04 15:50:50.338460
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Thursday, 04-Jan-24 00:50:50 PST.!!! 2024-01-04 15:50:50.681442
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:50:51 PST.!!! 2024-01-04 15:50:51.084561
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:51 PST.!!! 2024-01-04 15:50:51.395487
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:51 PST.!!! 2024-01-04 15:50:51.858676
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:52 PST.!!! 2024-01-04 15:50:52.175897
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:52 PST.!!! 2024-01-04 15:50:52.834975
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:53 PST.!!! 2024-01-04 15:50:53.784579
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:54 PST.!!! 2024-01-04 15:50:54.347636
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:55 PST.!!! 2024-01-04 15:50:55.430746
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:50:59 PST.!!! 2024-01-04 15:51:00.268612
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:51:02 PST.!!! 2024-01-04 15:51:04.167193
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 00:51:05 PST.!!! 2024-01-04 15:51:06.311962
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:08 PST.!!! 2024-01-04 15:51:08.494063
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:09 PST.!!! 2024-01-04 15:51:09.439645
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:10 PST.!!! 2024-01-04 15:51:10.671455
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:11 PST.!!! 2024-01-04 15:51:11.351867
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:12 PST.!!! 2024-01-04 15:51:12.360762
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:13 PST.!!! 2024-01-04 15:51:14.753031
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:16 PST.!!! 2024-01-04 15:51:16.255184
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:17 PST.!!! 2024-01-04 15:51:17.103020
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:17 PST.!!! 2024-01-04 15:51:18.058092
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-04 15:51:19.015922
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 00:51:19 PST.!!! 2024-01-04 15:51:19.872016
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:31 PST.!!! 2024-01-04 17:31:32.016914
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:32 PST.!!! 2024-01-04 17:31:32.666635
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:33 PST.!!! 2024-01-04 17:31:33.019949
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:33 PST.!!! 2024-01-04 17:31:33.392387
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:33 PST.!!! 2024-01-04 17:31:33.702385
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:34 PST.!!! 2024-01-04 17:31:34.018871
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Thursday, 04-Jan-24 02:31:34 PST.!!! 2024-01-04 17:31:34.411776
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:09:15 PDT. The current time is Thursday, 04-Jan-24 02:31:34 PST.!!! 2024-01-04 17:31:34.771021
-AdReport!!! Error validating access token: Session has expired on Friday, 22-Sep-23 06:25:57 PDT. The current time is Thursday, 04-Jan-24 02:31:35 PST.!!! 2024-01-04 17:31:35.123087
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:35 PST.!!! 2024-01-04 17:31:35.582379
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:35 PST.!!! 2024-01-04 17:31:35.884883
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:36 PST.!!! 2024-01-04 17:31:36.219229
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:36 PST.!!! 2024-01-04 17:31:36.565052
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:36 PST.!!! 2024-01-04 17:31:37.186051
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:37 PST.!!! 2024-01-04 17:31:37.610595
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:37 PST.!!! 2024-01-04 17:31:37.981270
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:38 PST.!!! 2024-01-04 17:31:38.429067
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:38 PST.!!! 2024-01-04 17:31:38.802580
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:39 PST.!!! 2024-01-04 17:31:39.277859
-AdReport!!! Error validating access token: Session has expired on Thursday, 20-Jul-23 19:07:34 PDT. The current time is Thursday, 04-Jan-24 02:31:39 PST.!!! 2024-01-04 17:31:39.627739
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:40 PST.!!! 2024-01-04 17:31:40.099154
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:40 PST.!!! 2024-01-04 17:31:40.627291
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:41 PST.!!! 2024-01-04 17:31:41.116096
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:41 PST.!!! 2024-01-04 17:31:41.500642
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:41 PST.!!! 2024-01-04 17:31:41.859998
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:42 PST.!!! 2024-01-04 17:31:42.177550
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:42 PST.!!! 2024-01-04 17:31:42.611771
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:42 PST.!!! 2024-01-04 17:31:42.920755
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:43 PST.!!! 2024-01-04 17:31:43.335527
-AdReport!!! Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.!!! 2024-01-04 17:31:43.745532
-AdReport!!! Error validating access token: Session has expired on Tuesday, 21-Nov-23 20:54:37 PST. The current time is Thursday, 04-Jan-24 02:31:44 PST.!!! 2024-01-04 17:31:44.175976
+Error: 2024-01-21 16:11:12.483238 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:14.374213 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:16.277179 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:18.130142 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:20.006356 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:21.821216 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:23.781360 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:25.715497 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:27.517206 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:29.318605 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:31.103246 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:32.922854 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:34.793695 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:36.559074 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:38.442462 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:40.177724 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:41.947202 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:43.732305 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:45.643780 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:47.452841 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:49.254851 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:51.025762 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:11:52.842095 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:12:04.903403 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:12:06.905795 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:12:08.790978 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:12:10.661996 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.112433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.128058 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.128058 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.128058 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.128058 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:19.128058 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:24.953166 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:29.088469 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:29.088469 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:29.088469 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:13:29.088469 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:32.518179 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:34.044025 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:35.543483 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:36.998166 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:38.474293 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:40.079431 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:41.550778 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:43.245626 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:44.899375 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:46.400370 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:47.953431 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:54.204854 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:15:58.956799 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 16:16:00.493701 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:28.655562 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:30.108553 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:31.545951 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:33.170972 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:34.655213 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:36.233224 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:37.843020 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:39.296040 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:40.905268 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:42.498934 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:44.076968 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:45.920587 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:47.514223 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:49.107859 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:50.592134 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:52.013870 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:53.607506 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:55.138671 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:56.690403 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:58.268412 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 17:59:59.752680 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:01.268197 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:02.674314 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:04.111740 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:05.549108 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:06.970909 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:11.283187 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:16.836162 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:18.507915 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:20.789054 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:25.538682 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:26.976052 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:28.397822 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 18:00:29.928994 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:20.391411 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:22.219403 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:24.078667 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:25.968682 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:27.765566 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:29.718559 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:31.609093 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:33.433035 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:35.260973 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:37.010901 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:38.823216 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:40.604337 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:42.479246 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:44.322863 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:46.182104 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:48.041398 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:49.744373 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:51.837944 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:53.541005 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:57:59.649388 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:01.399733 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:05.461885 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:10.658004 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:12.423500 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:14.298365 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:16.095110 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:17.907477 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:19.766719 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:21.619846 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:23.447815 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 19:58:25.322646 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:33.728709 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:35.369251 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:36.791048 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:38.228423 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:39.661334 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:41.286220 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:42.754888 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:44.348497 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:45.926534 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:47.379526 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:48.910669 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:50.488706 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:52.019818 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:53.550957 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:55.050875 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:56.797301 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:58.328432 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:58:59.970634 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:01.579916 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:03.298517 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:05.345243 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:06.985751 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:08.626281 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:10.266788 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:12.505021 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:19.932894 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:21.339046 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:26.175565 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:27.816232 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:29.253628 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 21:59:30.753526 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:28.725168 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:30.443811 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:32.240539 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:34.068531 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:35.875376 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:37.719048 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:39.422048 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:41.234363 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:44.164806 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:45.883487 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:47.695832 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:49.398801 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:51.226850 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:53.117284 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:54.867158 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:56.570214 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:55:58.273161 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:00.402066 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:02.120691 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:03.870573 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:05.745497 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:07.495396 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:09.245269 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:10.948270 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:12.666896 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:14.510485 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:16.447872 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:18.408536 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:20.220929 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-21 23:56:32.800149 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:28.610162 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:30.110053 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:31.563073 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:33.031716 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:34.500331 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:35.937765 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:37.703264 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:39.488630 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:41.097864 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:42.550910 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:44.197626 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:45.713142 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:47.197353 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:48.791045 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:50.292429 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:51.792296 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:53.323460 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:54.838976 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:56.370116 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 01:54:59.854182 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:27.276832 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:28.761122 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:30.240354 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:31.771486 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:33.286994 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:34.802503 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:36.255498 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:37.739759 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:39.239600 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:40.708251 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:42.504994 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:44.082977 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:45.583402 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 03:53:48.380082 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:06.041530 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:07.791405 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:09.525678 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:11.259904 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:12.978553 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:14.681555 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:16.400181 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:18.103675 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:19.869173 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:21.703208 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:23.531200 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:25.327970 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:27.046571 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:30.077601 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:34.809661 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:36.528264 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 05:55:44.262103 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 07:53:23.829562 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 07:53:25.610683 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 07:53:27.330360 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 07:53:29.127052 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 07:53:31.580218 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 07:53:34.095662 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 10:06:20.673939 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 10:06:22.423812 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 10:06:23.970599 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:34 PST.!!! 2024-01-22 14:01:35.092441
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:35 PST.!!! 2024-01-22 14:01:35.842386
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:36 PST.!!! 2024-01-22 14:01:36.498590
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:37 PST.!!! 2024-01-22 14:01:37.139167
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:37 PST.!!! 2024-01-22 14:01:37.795371
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:38 PST.!!! 2024-01-22 14:01:38.435949
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:38 PST.!!! 2024-01-22 14:01:39.060908
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:39 PST.!!! 2024-01-22 14:01:39.717051
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:40 PST.!!! 2024-01-22 14:01:40.388932
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:40 PST.!!! 2024-01-22 14:01:41.029511
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:41 PST.!!! 2024-01-22 14:01:41.716961
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Sunday, 21-Jan-24 23:01:42 PST.!!! 2024-01-22 14:01:42.357542
+Error: 2024-01-22 14:04:00.291874 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 14:04:01.994820 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 14:04:03.525960 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 14:04:05.014677 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 14:04:06.733304 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 14:04:16.837904 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 14:04:18.555521 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:16 PST.!!! 2024-01-22 16:00:16.852058
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:17 PST.!!! 2024-01-22 16:00:17.508346
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:18 PST.!!! 2024-01-22 16:00:18.133327
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:18 PST.!!! 2024-01-22 16:00:18.789528
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:19 PST.!!! 2024-01-22 16:00:19.445732
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:19 PST.!!! 2024-01-22 16:00:20.086310
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:20 PST.!!! 2024-01-22 16:00:20.726889
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:21 PST.!!! 2024-01-22 16:00:21.383073
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:21 PST.!!! 2024-01-22 16:00:22.023669
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:22 PST.!!! 2024-01-22 16:00:22.664221
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:23 PST.!!! 2024-01-22 16:00:23.314355
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 01:00:23 PST.!!! 2024-01-22 16:00:23.954935
+Error: 2024-01-22 16:03:02.961465 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:06.162393 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:08.552846 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:10.401202 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:12.869827 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:16.006187 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:27.919078 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:29.731448 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 16:03:31.528191 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:26 PST.!!! 2024-01-22 18:00:26.405520
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:26 PST.!!! 2024-01-22 18:00:27.108639
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:27 PST.!!! 2024-01-22 18:00:27.750494
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:28 PST.!!! 2024-01-22 18:00:28.453545
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:29 PST.!!! 2024-01-22 18:00:29.141018
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:29 PST.!!! 2024-01-22 18:00:29.875318
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:30 PST.!!! 2024-01-22 18:00:30.547167
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:31 PST.!!! 2024-01-22 18:00:31.281466
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:31 PST.!!! 2024-01-22 18:00:32.047058
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:32 PST.!!! 2024-01-22 18:00:32.750132
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:33 PST.!!! 2024-01-22 18:00:33.453207
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 03:00:34 PST.!!! 2024-01-22 18:00:34.125123
+Error: 2024-01-22 18:02:55.575843 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:02:57.091409 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:02:58.653804 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:00.513021 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:02.075408 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:03.544047 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:05.168951 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:06.775752 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:08.400612 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:09.942417 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:11.395439 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:13.019863 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:14.754109 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:16.397139 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:17.881412 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:19.350055 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:20.928083 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:22.506094 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:24.037231 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:25.562768 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:27.015786 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:28.570123 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:30.210634 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:32.919272 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:34.528531 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:40.055835 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:45.821043 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:47.461549 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:49.019004 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:50.550119 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 18:03:52.026914 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:49 PST.!!! 2024-01-22 20:03:49.557513
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:50 PST.!!! 2024-01-22 20:03:50.229319
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:50 PST.!!! 2024-01-22 20:03:50.854294
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:51 PST.!!! 2024-01-22 20:03:51.526120
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:52 PST.!!! 2024-01-22 20:03:52.197946
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:52 PST.!!! 2024-01-22 20:03:52.854149
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:53 PST.!!! 2024-01-22 20:03:53.525951
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:54 PST.!!! 2024-01-22 20:03:54.182178
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:54 PST.!!! 2024-01-22 20:03:54.838380
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:55 PST.!!! 2024-01-22 20:03:55.494585
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:56 PST.!!! 2024-01-22 20:03:56.213281
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 05:03:56 PST.!!! 2024-01-22 20:03:57.041459
+Error: 2024-01-22 20:07:02.912385 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:04.852725 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:08.446303 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:10.102460 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:12.164811 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:13.977124 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:16.023852 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:17.927115 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:19.897954 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:21.679118 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:23.350900 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:25.136473 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:26.714441 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:28.243166 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:29.883664 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:31.398726 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:34.054996 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:35.648644 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:37.320398 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:40.039464 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:41.789337 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:43.429819 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:45.007830 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:46.695231 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:48.195068 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:49.695014 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:51.234678 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:52.875184 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:07:55.515619 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:08:06.449039 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:08:09.035614 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 20:08:10.785431 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:22.580261 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:24.315816 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:26.031258 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:27.729530 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:29.329180 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:31.018271 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:32.689141 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:34.623052 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:36.334034 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:37.972436 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:39.771555 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:41.596889 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:43.545770 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:45.400508 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:47.020195 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:48.686998 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:50.171957 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:51.840352 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:53.358531 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:55.046171 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:56.778673 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:43:58.279982 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:44:00.565563 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:44:09.976777 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 21:44:12.010733 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:22 PST.!!! 2024-01-22 21:57:22.159716
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:22 PST.!!! 2024-01-22 21:57:22.878408
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:23 PST.!!! 2024-01-22 21:57:23.534606
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:24 PST.!!! 2024-01-22 21:57:24.206425
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:24 PST.!!! 2024-01-22 21:57:24.878243
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:25 PST.!!! 2024-01-22 21:57:25.534442
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:26 PST.!!! 2024-01-22 21:57:26.175957
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:26 PST.!!! 2024-01-22 21:57:26.832152
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:27 PST.!!! 2024-01-22 21:57:27.488349
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:28 PST.!!! 2024-01-22 21:57:28.144547
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:28 PST.!!! 2024-01-22 21:57:28.816311
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 06:57:29 PST.!!! 2024-01-22 21:57:29.488186
+Error: 2024-01-22 22:00:16.701326 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:18.616085 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:20.475282 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:22.225140 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:24.003269 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:25.737476 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:27.503001 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:29.299755 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:31.157006 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:32.922485 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:34.687945 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:36.515944 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:38.250154 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:40.210166 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:42.100614 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:43.970916 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:45.767645 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:47.533125 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:49.317035 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:51.145035 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:52.894868 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:55.219847 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:00:57.728466 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 22:01:07.852642 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:24 PST.!!! 2024-01-22 23:54:25.056018
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:25 PST.!!! 2024-01-22 23:54:25.743412
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:26 PST.!!! 2024-01-22 23:54:26.368422
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:26 PST.!!! 2024-01-22 23:54:27.024569
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:27 PST.!!! 2024-01-22 23:54:27.665204
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:28 PST.!!! 2024-01-22 23:54:28.341324
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:28 PST.!!! 2024-01-22 23:54:29.013153
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:29 PST.!!! 2024-01-22 23:54:29.653730
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:30 PST.!!! 2024-01-22 23:54:30.310026
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:30 PST.!!! 2024-01-22 23:54:30.981919
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:31 PST.!!! 2024-01-22 23:54:31.638077
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 08:54:32 PST.!!! 2024-01-22 23:54:32.278702
+Error: 2024-01-22 23:56:54.932845 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:56:56.479637 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:56:57.948279 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:56:59.479363 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:01.041805 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:02.541697 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:03.951741 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:05.545433 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:07.092141 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:08.623279 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:10.232538 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:11.638720 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:13.310439 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:14.794763 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:17.232027 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:18.717752 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:20.139520 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:21.701911 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:23.139425 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:24.639288 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:26.092308 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:27.623447 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:29.132346 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:30.679055 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:33.319545 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-22 23:57:38.598977 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:20 PST.!!! 2024-01-23 01:53:20.376318
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:20 PST.!!! 2024-01-23 01:53:21.016942
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:21 PST.!!! 2024-01-23 01:53:21.673091
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:22 PST.!!! 2024-01-23 01:53:22.344971
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:22 PST.!!! 2024-01-23 01:53:23.001340
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:23 PST.!!! 2024-01-23 01:53:23.673141
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:24 PST.!!! 2024-01-23 01:53:24.313745
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:24 PST.!!! 2024-01-23 01:53:24.985571
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:25 PST.!!! 2024-01-23 01:53:25.657397
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:26 PST.!!! 2024-01-23 01:53:26.297976
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:26 PST.!!! 2024-01-23 01:53:26.969802
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 10:53:27 PST.!!! 2024-01-23 01:53:27.641633
+Error: 2024-01-23 01:55:38.389474 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:39.903320 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:41.387588 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:42.809360 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:44.262404 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:45.699777 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:47.184039 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:48.652684 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:50.121331 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:51.596511 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:53.158900 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:54.721287 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:56.158708 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:57.596104 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:55:59.049099 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:56:00.533390 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:56:02.048906 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:56:05.689509 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:56:07.767482 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:56:13.104702 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 01:56:18.170857 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:20 PST.!!! 2024-01-23 03:52:20.398931
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:20 PST.!!! 2024-01-23 03:52:21.055134
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:21 PST.!!! 2024-01-23 03:52:21.695712
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:22 PST.!!! 2024-01-23 03:52:22.351915
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:22 PST.!!! 2024-01-23 03:52:22.992493
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:23 PST.!!! 2024-01-23 03:52:23.648695
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:24 PST.!!! 2024-01-23 03:52:24.304875
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:24 PST.!!! 2024-01-23 03:52:24.929853
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:25 PST.!!! 2024-01-23 03:52:25.573949
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:26 PST.!!! 2024-01-23 03:52:26.198903
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:26 PST.!!! 2024-01-23 03:52:26.870705
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 12:52:27 PST.!!! 2024-01-23 03:52:27.526931
+Error: 2024-01-23 03:54:50.254795 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:54:51.973419 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:54:53.692019 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:54:55.441943 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:54:57.285558 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:54:59.160423 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:00.941544 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:02.831982 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:04.753741 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:06.644230 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:08.394102 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:10.159569 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:11.887191 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:13.793246 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:15.496248 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 03:55:18.183703 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:43 PST.!!! 2024-01-23 05:51:43.241705
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:43 PST.!!! 2024-01-23 05:51:43.913584
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:44 PST.!!! 2024-01-23 05:51:44.710378
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:45 PST.!!! 2024-01-23 05:51:45.350957
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:45 PST.!!! 2024-01-23 05:51:46.022808
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:46 PST.!!! 2024-01-23 05:51:46.647762
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:47 PST.!!! 2024-01-23 05:51:47.288340
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:47 PST.!!! 2024-01-23 05:51:47.940607
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:48 PST.!!! 2024-01-23 05:51:48.596808
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:49 PST.!!! 2024-01-23 05:51:49.252958
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:49 PST.!!! 2024-01-23 05:51:49.909298
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 14:51:50 PST.!!! 2024-01-23 05:51:50.565527
+Error: 2024-01-23 05:54:15.311892 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:17.030569 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:18.733545 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:20.452170 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:22.155172 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:23.983164 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:25.811127 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:27.529752 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:29.232810 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:31.138922 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:32.888768 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:34.701108 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:36.435413 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:38.247781 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:39.982005 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:41.669383 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:43.575495 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:45.216000 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 05:54:49.231360 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:22 PST.!!! 2024-01-23 07:52:22.527203
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:23 PST.!!! 2024-01-23 07:52:23.183398
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:23 PST.!!! 2024-01-23 07:52:23.839592
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:24 PST.!!! 2024-01-23 07:52:24.495734
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:25 PST.!!! 2024-01-23 07:52:25.120715
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:25 PST.!!! 2024-01-23 07:52:25.776875
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:26 PST.!!! 2024-01-23 07:52:26.401822
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:26 PST.!!! 2024-01-23 07:52:27.042396
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:27 PST.!!! 2024-01-23 07:52:27.683021
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:28 PST.!!! 2024-01-23 07:52:28.339156
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:28 PST.!!! 2024-01-23 07:52:28.976031
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 16:52:29 PST.!!! 2024-01-23 07:52:29.601034
+Error: 2024-01-23 07:54:45.748703 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:14 PST.!!! 2024-01-23 10:00:15.039837
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:15 PST.!!! 2024-01-23 10:00:15.711687
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:16 PST.!!! 2024-01-23 10:00:16.352266
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:16 PST.!!! 2024-01-23 10:00:17.008466
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:17 PST.!!! 2024-01-23 10:00:17.680294
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:18 PST.!!! 2024-01-23 10:00:18.367721
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:18 PST.!!! 2024-01-23 10:00:19.008323
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:19 PST.!!! 2024-01-23 10:00:19.695773
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:20 PST.!!! 2024-01-23 10:00:20.367600
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:20 PST.!!! 2024-01-23 10:00:21.023802
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:21 PST.!!! 2024-01-23 10:00:21.648756
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 19:00:22 PST.!!! 2024-01-23 10:00:22.304959
+Error: 2024-01-23 10:02:35.695330 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:45 PST.!!! 2024-01-23 12:02:45.307308
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:45 PST.!!! 2024-01-23 12:02:45.947941
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:46 PST.!!! 2024-01-23 12:02:46.604143
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:47 PST.!!! 2024-01-23 12:02:47.244722
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:48 PST.!!! 2024-01-23 12:02:48.213404
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:48 PST.!!! 2024-01-23 12:02:48.853981
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:49 PST.!!! 2024-01-23 12:02:49.510183
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:50 PST.!!! 2024-01-23 12:02:50.166331
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:50 PST.!!! 2024-01-23 12:02:50.806964
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:51 PST.!!! 2024-01-23 12:02:51.431918
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:51 PST.!!! 2024-01-23 12:02:52.072497
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 21:02:52 PST.!!! 2024-01-23 12:02:52.744324
+Error: 2024-01-23 12:05:50.418310 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 12:05:52.074440 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:53 PST.!!! 2024-01-23 14:05:53.214673
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:53 PST.!!! 2024-01-23 14:05:54.023615
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:54 PST.!!! 2024-01-23 14:05:54.798557
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:55 PST.!!! 2024-01-23 14:05:55.587935
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:56 PST.!!! 2024-01-23 14:05:56.364623
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:56 PST.!!! 2024-01-23 14:05:57.120750
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:57 PST.!!! 2024-01-23 14:05:57.851373
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:58 PST.!!! 2024-01-23 14:05:58.589127
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:59 PST.!!! 2024-01-23 14:05:59.303052
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:05:59 PST.!!! 2024-01-23 14:05:59.993514
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:06:00 PST.!!! 2024-01-23 14:06:00.715453
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Monday, 22-Jan-24 23:06:01 PST.!!! 2024-01-23 14:06:01.447436
+Error: 2024-01-23 14:08:38.270258 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:08:40.155885 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:08:42.151656 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:08:44.294153 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:08:46.382908 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:08:48.628975 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:08:50.866063 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:09:05.095018 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 14:09:07.065483 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:30 PST.!!! 2024-01-23 16:02:30.867280
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:31 PST.!!! 2024-01-23 16:02:31.539098
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:32 PST.!!! 2024-01-23 16:02:32.164044
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:32 PST.!!! 2024-01-23 16:02:32.820239
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:33 PST.!!! 2024-01-23 16:02:33.476432
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:33 PST.!!! 2024-01-23 16:02:34.132628
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:34 PST.!!! 2024-01-23 16:02:34.804420
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:35 PST.!!! 2024-01-23 16:02:35.460615
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:35 PST.!!! 2024-01-23 16:02:36.101209
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:36 PST.!!! 2024-01-23 16:02:36.788627
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:37 PST.!!! 2024-01-23 16:02:37.429220
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 01:02:37 PST.!!! 2024-01-23 16:02:38.069766
+Error: 2024-01-23 16:05:18.361209 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:20.001718 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:22.157760 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:23.767021 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:25.234644 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:26.734516 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:28.171919 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:29.656167 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:31.240706 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:32.803047 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:34.459182 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:36.037170 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:37.537042 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:39.101907 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:40.695545 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:42.179793 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:49.383329 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:54.686289 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 16:05:56.420518 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:33 PST.!!! 2024-01-23 18:00:33.249799
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:33 PST.!!! 2024-01-23 18:00:33.921625
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:34 PST.!!! 2024-01-23 18:00:34.593451
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:35 PST.!!! 2024-01-23 18:00:35.265277
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:35 PST.!!! 2024-01-23 18:00:35.937104
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:36 PST.!!! 2024-01-23 18:00:36.624718
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:37 PST.!!! 2024-01-23 18:00:37.312163
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:37 PST.!!! 2024-01-23 18:00:37.968345
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:38 PST.!!! 2024-01-23 18:00:38.671419
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:39 PST.!!! 2024-01-23 18:00:39.296396
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:39 PST.!!! 2024-01-23 18:00:39.968198
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 03:00:40 PST.!!! 2024-01-23 18:00:40.624397
+Error: 2024-01-23 18:03:22.227705 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:23.727598 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:25.461843 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:27.164847 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:28.602242 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:30.164630 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:31.664544 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:33.289402 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:34.976779 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:36.554794 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:38.226568 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:39.898307 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:41.476307 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:43.038694 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:44.804190 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:51.256843 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:56.115865 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:57.693903 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:03:59.350008 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:04:00.834275 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:04:02.443557 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:04:03.974640 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 18:04:05.443339 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:53 PST.!!! 2024-01-23 19:58:53.426725
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:53 PST.!!! 2024-01-23 19:58:54.082928
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:54 PST.!!! 2024-01-23 19:58:54.739107
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:55 PST.!!! 2024-01-23 19:58:55.442180
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:55 PST.!!! 2024-01-23 19:58:56.098406
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:56 PST.!!! 2024-01-23 19:58:56.770208
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:57 PST.!!! 2024-01-23 19:58:57.410811
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:57 PST.!!! 2024-01-23 19:58:58.051389
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:58 PST.!!! 2024-01-23 19:58:58.801335
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:58:59 PST.!!! 2024-01-23 19:58:59.473137
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:59:00 PST.!!! 2024-01-23 19:59:00.144962
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 04:59:00 PST.!!! 2024-01-23 19:59:00.816813
+Error: 2024-01-23 20:02:33.619988 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:35.474547 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:37.255668 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:39.150706 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:41.075961 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:42.810210 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:44.685074 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:46.685890 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:48.420139 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:50.326251 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:52.062297 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:53.984008 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:55.780753 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:57.608841 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:02:59.339086 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:01.276446 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:03.137778 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:05.043889 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:06.866551 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:08.757109 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:10.600905 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:12.832126 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:14.628894 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:16.661520 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:18.380144 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:20.145617 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:21.965515 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:23.824725 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:27.364418 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:34.406919 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:36.298203 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:42.728929 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:44.728758 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:46.728586 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:48.884880 can't compare offset-naive and offset-aware datetimes
+Error: 2024-01-23 20:03:51.134803 can't compare offset-naive and offset-aware datetimes
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:14 PST.!!! 2024-01-23 21:58:14.134882
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:14 PST.!!! 2024-01-23 21:58:14.837954
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:15 PST.!!! 2024-01-23 21:58:15.525406
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:16 PST.!!! 2024-01-23 21:58:16.197232
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:16 PST.!!! 2024-01-23 21:58:16.870357
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:17 PST.!!! 2024-01-23 21:58:17.542182
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:18 PST.!!! 2024-01-23 21:58:18.245232
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:18 PST.!!! 2024-01-23 21:58:18.885835
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:19 PST.!!! 2024-01-23 21:58:19.573285
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:20 PST.!!! 2024-01-23 21:58:20.272812
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:20 PST.!!! 2024-01-23 21:58:21.163371
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 06:58:21 PST.!!! 2024-01-23 21:58:21.897691
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:20 PST.!!! 2024-01-23 23:52:20.324946
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:20 PST.!!! 2024-01-23 23:52:21.012396
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:21 PST.!!! 2024-01-23 23:52:21.668541
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:22 PST.!!! 2024-01-23 23:52:22.309175
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:22 PST.!!! 2024-01-23 23:52:22.949754
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:23 PST.!!! 2024-01-23 23:52:23.605964
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:24 PST.!!! 2024-01-23 23:52:24.277817
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:24 PST.!!! 2024-01-23 23:52:24.934020
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:25 PST.!!! 2024-01-23 23:52:25.621446
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:26 PST.!!! 2024-01-23 23:52:26.262048
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:26 PST.!!! 2024-01-23 23:52:26.918251
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 08:52:27 PST.!!! 2024-01-23 23:52:27.605678
+Error: 2024-01-23 23:57:30.860658 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:01 PST.!!! 2024-01-24 01:52:02.044669
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:02 PST.!!! 2024-01-24 01:52:02.732087
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:03 PST.!!! 2024-01-24 01:52:03.372681
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:03 PST.!!! 2024-01-24 01:52:04.044500
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:04 PST.!!! 2024-01-24 01:52:04.856907
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:05 PST.!!! 2024-01-24 01:52:05.491338
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:06 PST.!!! 2024-01-24 01:52:06.163156
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:06 PST.!!! 2024-01-24 01:52:06.819349
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:07 PST.!!! 2024-01-24 01:52:07.491168
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:08 PST.!!! 2024-01-24 01:52:08.162961
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:08 PST.!!! 2024-01-24 01:52:08.812100
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 10:52:09 PST.!!! 2024-01-24 01:52:09.499517
+Error: 2024-01-24 01:54:26.099393 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:11 PST.!!! 2024-01-24 03:52:11.957764
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:12 PST.!!! 2024-01-24 03:52:12.660814
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:13 PST.!!! 2024-01-24 03:52:13.332640
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:13 PST.!!! 2024-01-24 03:52:13.977507
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:14 PST.!!! 2024-01-24 03:52:14.618062
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:15 PST.!!! 2024-01-24 03:52:15.274288
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:15 PST.!!! 2024-01-24 03:52:15.930489
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:16 PST.!!! 2024-01-24 03:52:16.586692
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:17 PST.!!! 2024-01-24 03:52:17.243058
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:17 PST.!!! 2024-01-24 03:52:17.899262
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:18 PST.!!! 2024-01-24 03:52:18.571085
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 12:52:19 PST.!!! 2024-01-24 03:52:19.274159
+Error: 2024-01-24 03:55:03.881356 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:46 PST.!!! 2024-01-24 05:51:46.389787
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:46 PST.!!! 2024-01-24 05:51:47.045989
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:47 PST.!!! 2024-01-24 05:51:47.717815
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:48 PST.!!! 2024-01-24 05:51:48.342770
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:48 PST.!!! 2024-01-24 05:51:49.014596
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:49 PST.!!! 2024-01-24 05:51:49.639549
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:50 PST.!!! 2024-01-24 05:51:50.326946
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:50 PST.!!! 2024-01-24 05:51:50.967524
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:51 PST.!!! 2024-01-24 05:51:51.904957
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:52 PST.!!! 2024-01-24 05:51:52.529968
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:53 PST.!!! 2024-01-24 05:51:53.186169
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 14:51:53 PST.!!! 2024-01-24 05:51:53.873563
+Error: 2024-01-24 05:53:42.591603 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:19 PST.!!! 2024-01-24 07:52:20.149842
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:20 PST.!!! 2024-01-24 07:52:20.823697
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:21 PST.!!! 2024-01-24 07:52:21.495548
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:22 PST.!!! 2024-01-24 07:52:22.151751
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:22 PST.!!! 2024-01-24 07:52:22.823578
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:23 PST.!!! 2024-01-24 07:52:23.479755
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:23 PST.!!! 2024-01-24 07:52:24.120331
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:24 PST.!!! 2024-01-24 07:52:24.776536
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:25 PST.!!! 2024-01-24 07:52:25.448387
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:25 PST.!!! 2024-01-24 07:52:26.100326
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:26 PST.!!! 2024-01-24 07:52:26.756528
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 16:52:27 PST.!!! 2024-01-24 07:52:27.397106
+Error: 2024-01-24 07:54:21.618561 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:04 PST.!!! 2024-01-24 10:01:04.910564
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:05 PST.!!! 2024-01-24 10:01:05.566766
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:06 PST.!!! 2024-01-24 10:01:06.222991
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:06 PST.!!! 2024-01-24 10:01:06.894794
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:07 PST.!!! 2024-01-24 10:01:07.551020
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:08 PST.!!! 2024-01-24 10:01:08.222846
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:08 PST.!!! 2024-01-24 10:01:08.879048
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:09 PST.!!! 2024-01-24 10:01:09.535250
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:10 PST.!!! 2024-01-24 10:01:10.191452
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:10 PST.!!! 2024-01-24 10:01:10.846611
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:11 PST.!!! 2024-01-24 10:01:11.502813
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 19:01:12 PST.!!! 2024-01-24 10:01:12.174615
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:04 PST.!!! 2024-01-24 12:04:04.470188
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:05 PST.!!! 2024-01-24 12:04:05.133139
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:05 PST.!!! 2024-01-24 12:04:05.773741
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:06 PST.!!! 2024-01-24 12:04:06.429942
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:06 PST.!!! 2024-01-24 12:04:07.070495
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:07 PST.!!! 2024-01-24 12:04:07.726690
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:08 PST.!!! 2024-01-24 12:04:08.382923
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:08 PST.!!! 2024-01-24 12:04:09.023476
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:09 PST.!!! 2024-01-24 12:04:09.664077
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:10 PST.!!! 2024-01-24 12:04:10.335902
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:10 PST.!!! 2024-01-24 12:04:10.960797
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 21:04:11 PST.!!! 2024-01-24 12:04:11.804543
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:38 PST.!!! 2024-01-24 14:07:38.484526
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:39 PST.!!! 2024-01-24 14:07:39.171975
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:39 PST.!!! 2024-01-24 14:07:39.804885
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:40 PST.!!! 2024-01-24 14:07:40.476708
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:41 PST.!!! 2024-01-24 14:07:41.132913
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:41 PST.!!! 2024-01-24 14:07:41.789115
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:42 PST.!!! 2024-01-24 14:07:42.460916
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:42 PST.!!! 2024-01-24 14:07:43.101496
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:43 PST.!!! 2024-01-24 14:07:43.773345
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:44 PST.!!! 2024-01-24 14:07:44.429547
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:44 PST.!!! 2024-01-24 14:07:45.084311
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Tuesday, 23-Jan-24 23:07:45 PST.!!! 2024-01-24 14:07:45.771760
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:26 PST.!!! 2024-01-24 16:02:26.453196
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:26 PST.!!! 2024-01-24 16:02:27.156270
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:27 PST.!!! 2024-01-24 16:02:27.796848
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:28 PST.!!! 2024-01-24 16:02:28.468673
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:29 PST.!!! 2024-01-24 16:02:29.140475
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:29 PST.!!! 2024-01-24 16:02:29.796700
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:30 PST.!!! 2024-01-24 16:02:30.452902
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:30 PST.!!! 2024-01-24 16:02:31.093482
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:31 PST.!!! 2024-01-24 16:02:31.776156
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:32 PST.!!! 2024-01-24 16:02:32.416734
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:32 PST.!!! 2024-01-24 16:02:33.088559
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 01:02:33 PST.!!! 2024-01-24 16:02:33.713515
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 03:00:25 PST.!!! 2024-01-24 18:00:25.727649
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 03:00:26 PST.!!! 2024-01-24 18:00:26.399519
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 03:00:26 PST.!!! 2024-01-24 18:00:27.087036
+Error: 2024-01-24 18:03:31.377639 list index out of range
+Error: 2024-01-24 18:04:23.593569 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:41 PST.!!! 2024-01-24 20:07:41.638911
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:42 PST.!!! 2024-01-24 20:07:42.295124
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:42 PST.!!! 2024-01-24 20:07:42.935689
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:43 PST.!!! 2024-01-24 20:07:43.591878
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:44 PST.!!! 2024-01-24 20:07:44.248067
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:44 PST.!!! 2024-01-24 20:07:44.904233
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:45 PST.!!! 2024-01-24 20:07:45.544800
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:46 PST.!!! 2024-01-24 20:07:46.310377
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:46 PST.!!! 2024-01-24 20:07:46.996327
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:47 PST.!!! 2024-01-24 20:07:47.668140
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:48 PST.!!! 2024-01-24 20:07:48.324331
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 05:07:48 PST.!!! 2024-01-24 20:07:49.011768
+Error: 2024-01-24 20:10:28.016648 list index out of range
+Error: 2024-01-24 20:11:03.060352 list index out of range
+Error: 2024-01-24 20:11:56.899265 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:04 PST.!!! 2024-01-24 22:16:05.046926
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:05 PST.!!! 2024-01-24 22:16:05.710922
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:06 PST.!!! 2024-01-24 22:16:06.382749
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:06 PST.!!! 2024-01-24 22:16:07.054550
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:07 PST.!!! 2024-01-24 22:16:07.695152
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:08 PST.!!! 2024-01-24 22:16:08.366954
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:08 PST.!!! 2024-01-24 22:16:09.038804
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:09 PST.!!! 2024-01-24 22:16:09.710631
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:10 PST.!!! 2024-01-24 22:16:10.351208
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:10 PST.!!! 2024-01-24 22:16:10.991785
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:11 PST.!!! 2024-01-24 22:16:11.663612
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 07:16:12 PST.!!! 2024-01-24 22:16:12.319813
+Error: 2024-01-24 22:19:41.589777 list index out of range
+Error: 2024-01-24 22:20:16.363054 list index out of range
+Error: 2024-01-24 22:20:54.253593 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:18 PST.!!! 2024-01-25 00:05:18.669699
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:19 PST.!!! 2024-01-25 00:05:19.560263
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:20 PST.!!! 2024-01-25 00:05:20.244146
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:20 PST.!!! 2024-01-25 00:05:20.962843
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:22 PST.!!! 2024-01-25 00:05:22.665868
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:23 PST.!!! 2024-01-25 00:05:23.322071
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:23 PST.!!! 2024-01-25 00:05:24.018950
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:24 PST.!!! 2024-01-25 00:05:24.722048
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:25 PST.!!! 2024-01-25 00:05:25.425121
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:26 PST.!!! 2024-01-25 00:05:26.175067
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:26 PST.!!! 2024-01-25 00:05:26.831270
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 09:05:27 PST.!!! 2024-01-25 00:05:27.534343
+Error: 2024-01-25 00:06:57.008743 list index out of range
+Error: 2024-01-25 00:08:39.089684 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:35 PST.!!! 2024-01-25 02:06:35.458386
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:36 PST.!!! 2024-01-25 02:06:36.130212
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:36 PST.!!! 2024-01-25 02:06:36.802015
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:37 PST.!!! 2024-01-25 02:06:37.442617
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:38 PST.!!! 2024-01-25 02:06:38.114443
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:38 PST.!!! 2024-01-25 02:06:38.801869
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:39 PST.!!! 2024-01-25 02:06:39.449254
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:40 PST.!!! 2024-01-25 02:06:40.121080
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:40 PST.!!! 2024-01-25 02:06:40.792941
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:41 PST.!!! 2024-01-25 02:06:41.464766
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:42 PST.!!! 2024-01-25 02:06:42.120969
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 11:06:42 PST.!!! 2024-01-25 02:06:42.777171
+Error: 2024-01-25 02:08:44.331726 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:52:59 PST.!!! 2024-01-25 03:52:59.604065
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:00 PST.!!! 2024-01-25 03:53:00.260267
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:00 PST.!!! 2024-01-25 03:53:00.932093
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:01 PST.!!! 2024-01-25 03:53:01.582079
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:02 PST.!!! 2024-01-25 03:53:02.222694
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:02 PST.!!! 2024-01-25 03:53:02.878897
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:03 PST.!!! 2024-01-25 03:53:03.706936
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:04 PST.!!! 2024-01-25 03:53:04.347668
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:04 PST.!!! 2024-01-25 03:53:05.003892
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:05 PST.!!! 2024-01-25 03:53:05.675721
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:06 PST.!!! 2024-01-25 03:53:06.331923
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 12:53:06 PST.!!! 2024-01-25 03:53:07.050620
+Error: 2024-01-25 03:55:36.825691 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:50 PST.!!! 2024-01-25 05:52:50.135057
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:50 PST.!!! 2024-01-25 05:52:50.806881
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:51 PST.!!! 2024-01-25 05:52:51.478703
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:52 PST.!!! 2024-01-25 05:52:52.140988
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:52 PST.!!! 2024-01-25 05:52:52.812814
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:53 PST.!!! 2024-01-25 05:52:53.453391
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:54 PST.!!! 2024-01-25 05:52:54.125217
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:54 PST.!!! 2024-01-25 05:52:54.797016
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:55 PST.!!! 2024-01-25 05:52:55.453218
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:56 PST.!!! 2024-01-25 05:52:56.109444
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:56 PST.!!! 2024-01-25 05:52:56.765645
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 14:52:57 PST.!!! 2024-01-25 05:52:57.437470
+Error: 2024-01-25 05:54:50.055200 'str' object has no attribute 'get'
+Error: 2024-01-25 05:55:22.046349 'str' object has no attribute 'get'
+Error: 2024-01-25 05:55:42.045667 'str' object has no attribute 'get'
+Error: 2024-01-25 05:56:16.965023 list index out of range
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:46 PST.!!! 2024-01-25 07:51:46.873779
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:47 PST.!!! 2024-01-25 07:51:47.561204
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:48 PST.!!! 2024-01-25 07:51:48.201784
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:48 PST.!!! 2024-01-25 07:51:48.842385
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:49 PST.!!! 2024-01-25 07:51:49.514211
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:50 PST.!!! 2024-01-25 07:51:50.170411
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:50 PST.!!! 2024-01-25 07:51:50.842337
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:51 PST.!!! 2024-01-25 07:51:51.482983
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:52 PST.!!! 2024-01-25 07:51:52.154808
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:52 PST.!!! 2024-01-25 07:51:52.826634
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:53 PST.!!! 2024-01-25 07:51:53.467212
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 16:51:54 PST.!!! 2024-01-25 07:51:54.123414
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:41 PST.!!! 2024-01-25 10:04:41.324431
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:41 PST.!!! 2024-01-25 10:04:42.011883
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:42 PST.!!! 2024-01-25 10:04:42.707609
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:43 PST.!!! 2024-01-25 10:04:43.363835
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:43 PST.!!! 2024-01-25 10:04:44.035637
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:44 PST.!!! 2024-01-25 10:04:44.910598
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:45 PST.!!! 2024-01-25 10:04:45.551176
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:46 PST.!!! 2024-01-25 10:04:46.207377
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:46 PST.!!! 2024-01-25 10:04:46.922122
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:47 PST.!!! 2024-01-25 10:04:47.593948
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:48 PST.!!! 2024-01-25 10:04:48.250150
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 19:04:48 PST.!!! 2024-01-25 10:04:48.906353
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:40 PST.!!! 2024-01-25 12:05:40.974045
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:41 PST.!!! 2024-01-25 12:05:41.645872
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:42 PST.!!! 2024-01-25 12:05:42.302073
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:42 PST.!!! 2024-01-25 12:05:42.973900
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:43 PST.!!! 2024-01-25 12:05:43.630101
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:44 PST.!!! 2024-01-25 12:05:44.301905
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:44 PST.!!! 2024-01-25 12:05:44.942506
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:45 PST.!!! 2024-01-25 12:05:45.614316
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:46 PST.!!! 2024-01-25 12:05:46.286158
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:46 PST.!!! 2024-01-25 12:05:46.911112
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:47 PST.!!! 2024-01-25 12:05:47.567314
+AdReport!!! Error validating access token: Session has expired on Sunday, 21-Jan-24 22:54:40 PST. The current time is Wednesday, 24-Jan-24 21:05:48 PST.!!! 2024-01-25 12:05:48.270391
+Error: 2024-01-25 16:13:13.514068 list index out of range
+Error: 2024-01-25 16:13:49.189075 list index out of range
+Error: 2024-01-25 18:06:28.239934 list index out of range
+Error: 2024-01-25 20:11:04.261650 list index out of range
+AdReport!!! Application request limit reached!!! 2024-01-31 12:12:50.122718
+AdReport!!! Application request limit reached!!! 2024-01-31 12:12:51.247636
